@@ -11,6 +11,6 @@ SQL, Python, Tableau, Snowflake, AWS Redshift
 
 ________________________
 
-🌸 girlie tech | 🎬 anime | 📚 book nerd | 🐶 animal lover | 🏃🏽‍♀️fitness 
+🌸 girlie tech | 🎬 anime | 📚 book nerd | 🐶 animal lover | 🏃🏽‍♀️ fitness 
 
 
