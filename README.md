@@ -1,4 +1,6 @@
-🌙 Hi I'm Grisel, an aspiring Data Engineer based in Houston, TX
+**Hello, I'm Grisel ✨**
+
+An aspiring Data Engineer based in Houston, TX
 
 I’m currently building end-to-end data projects using SQL, Python, Tableau, and slowly growing into ETL pipelines, Airflow, and cloud tooling.
 ________________________
