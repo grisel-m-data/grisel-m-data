@@ -1,8 +1,9 @@
-**Hello, I'm Grisel ✨**
+# Hi, I’m Grisel ✨
 
-An aspiring Data Engineer based in Houston, TX
+**Data Analyst based in Houston, TX**  
+Focused on turning raw data into clear, actionable insights using **SQL, Tableau, Excel, and Python**.
 
-I’m currently building end-to-end data projects using SQL, Python, Tableau, and slowly growing into ETL pipelines, Airflow, and cloud tooling.
+I have 3+ years of experience working with real-world operational and transactional data, including fraud detection, revenue analysis, and data quality validation. 
 ________________________
 
 🛠️ Tools & Tech
@@ -11,6 +12,18 @@ SQL, Python, Tableau, Snowflake, AWS Redshift
 
 ________________________
 
+## 🌱 Currently Learning
+- Python for data analysis and automation  
+- Writing cleaner, more efficient SQL queries  
+- Communicating insights clearly for non-technical stakeholders
+
+➡️ *More projects coming soon as I expand my Python analytics portfolio.*
+
+________________________
+
+## 💬 Let’s Connect
+[LinkedIn](https://www.linkedin.com/in/grisel-m-oz/)
+
+________________________
+
 🌸 girlie tech | 🎬 anime | 📚 book nerd | 🐶 animal lover | 🏃🏽‍♀️ fitness 
-
-
