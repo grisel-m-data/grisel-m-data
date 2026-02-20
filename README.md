@@ -26,4 +26,4 @@ ________________________
 
 ________________________
 
-🌸 girlie tech | 🎬 anime | 📚 book nerd | 🐶 animal lover | 🏋🏽‍♂️ fitness 
+🌸 girlie tech | 🎬 anime | 📚 book nerd | 🐶 animal lover 
