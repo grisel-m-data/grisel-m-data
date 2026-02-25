@@ -1,6 +1,6 @@
 # Hi, I’m Grisel ✨
 
-**Data Analyst based in Houston, TX**  
+**IT & Data Professional based in Houston, TX**  
 Focused on turning raw data into clear, actionable insights using **SQL, Tableau, Excel, and Python**.
 
 I have 3+ years of experience working with real-world operational and transactional data, including fraud detection, revenue analysis, and data quality validation. 
