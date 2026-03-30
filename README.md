@@ -1,11 +1,11 @@
 
 # Hi, I'm Grisel ✨
 
-**IT & Network Professional based in Houston, TX**
+**IT & Data Professional based in Houston, TX**
 
-Transitioning into network engineering with a focus on infrastructure, connectivity, and systems reliability.
+Analyst transitioning into Network Engineering with a focus on infrastructure, connectivity, and systems reliability.
 
-CompTIA A+ certified | CompTIA Network+ (in progress) | Python (in progress) | CompTIA Security+ (soon)
+CompTIA A+ certified | CompTIA Network+ (in progress) | CompTIA Security+ (soon)
 
 ________________________
 
@@ -13,13 +13,13 @@ ________________________
 
 **Networking:** TCP/IP, DNS, DHCP, VLANs, Subnetting, Network Troubleshooting, Network+
 
-**Systems:** Linux, Windows, macOS, iOS — configuration, diagnostics, and support
+**Systems:** PostgreSQL, Linux, Windows, MacOS, iOS — configuration, diagnostics, and support
 
 **Cloud:** AWS (Cloud Practitioner), Cloud fundamentals, cloud security concepts
 
 **Programming & Scripting:** Python (automation & IT scripting), SQL, Bash
 
-**Tools:** Wireshark, Cisco Packet Tracer, Salesforce CRM, SharePoint, Microsoft 365, Google Workspace
+**Tools:** Jira, Tableau, Wireshark, Cisco Packet Tracer, Salesforce CRM, SharePoint, Microsoft 365, Google Workspace
 
 ________________________
 
@@ -27,6 +27,7 @@ ________________________
 
 | Project | Description | Tools |
 |---|---|---|
+| ✅ SQL + Tableau | Credit Card Dashboard 
 | 🔜 Network Topology Lab | Simulated enterprise network with VLANs, DHCP, and DNS | Cisco Packet Tracer 
 | 🔜 Linux Networking Scripts | Bash scripts for ping sweeps, port checks, and host parsing | Linux / Bash 
 
@@ -45,4 +46,4 @@ ________________________
 
 ________________________
 
-🌸 girlie tech | 🏋🏽‍♂️ fitness | 📚 book nerd | 🐶 animal lover | anime viewer 🎬
+🌸 tech girlie | 🏋🏽‍♂️ fitness | 📚 book nerd | 🐶 animal lover | anime viewer 🎬
