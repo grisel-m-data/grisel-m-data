@@ -7,14 +7,21 @@ Analyst transitioning into Network Engineering with a focus on infrastructure, c
 
 CompTIA A+ certified | CompTIA Network+ certified | CompTIA Security+ (soon) | CCNA (soon)
 
+Let's Connect!
+[LinkedIn](https://www.linkedin.com/in/grisel-m-oz/)
+
 ________________________
 
 ### 🔧 Skills
 
 **Protocols & Standards**: TCP/IP, DNS, DHCP, IPv4/IPv6 Subnetting, VLANs, Routing (Dynamic/Static), Ethernet Standards (Cat6/Fiber).
+
 **Tools & Analysis**: Wireshark, Nmap, Cisco Packet Tracer, Powershell, CLI Configuration, Active Directory.
+
 **Security**: ACLs, VPNs, Firewalls, AAA, Network Hardening, Cloud Security (Security+ In Progress).
+
 **OS & Programming**: SQL, Python, Linux, Bash, Windows/macOS 
+
 **Enterprise Software**: Salesforce CRM, Jira, ZenDesk, Power BI, Tableau, Microsoft 365, Google Workspace
 
 ________________________
@@ -33,11 +40,6 @@ ________________________
 ### 🎓 Education & Certifications
 
 **B.S. Information Technology** — Western Governors University *(In Progress, Summer 2026)*
-
-________________________
-
-## 💬 Let’s Connect
-[LinkedIn](https://www.linkedin.com/in/grisel-m-oz/)
 
 ________________________
 
